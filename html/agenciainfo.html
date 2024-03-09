@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+<title> Pagina de colectivos - Info Agencia </title>
+<link rel="stylesheet" type="text/css" href="./css/indexdisenio.css">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+   integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+   crossorigin=""/>
+ <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+   integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+   crossorigin=""></script>
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+
+</head>
+<body style="background-color:#bcc6db;">
+
+	<header class="position-relative w-100">
+		<div  class="row mw-100" id="test19">
+			<div class="col col-sm-2">
+				<a href="index.html"><img src="logoejemplo.png" width=50px;></a>
+			</div>
+			<div class="col d-flex flex-row-reverse">
+				<div class="mt-10 sm-mt-0 col-sm-2 align-self-end pb-3" id="test34">
+					<a class="text-dark" href="index.html">Home</a>
+				</div>
+				<div class="mt-10 sm-mt-0 col-sm-2 align-self-end pb-3" id="test34">
+					<a class="text-dark" href="agencias.html">Agencias</a>
+				</div>
+				<div class="mt-10 sm-mt-0 col-sm-2 align-self-end pb-3	" id="test34">
+					<a class="text-dark" href="lineas.html">Lineas</a>
+				</div>
+			</div>
+		</div>
+		<div class="row mw-100" >
+	      <nav class="main-nav" id="test20">
+	        <input type="checkbox" id="isChecked"/>
+	        <label for="isChecked" class="menu-btn">
+	          <i class="fa fa-bars"></i>
+	        </label>
+				<a href="index.html"><img src="logoejemplo.png" width=50px;></a>
+	          <ul class="navlinks">
+	          <li><a class="text-white" id="test20" href="index.html">Home</a></li>
+	          <li><a class="text-white" id="test20" href="agencias.html">Agencias</a></li>
+	          <li><a class="text-white" id="test20" href="lineas.html">Lineas</a></li>
+	        </ul>
+	      </nav>
+		</div>
+		</header>
+
+<div id="nombreagencia"class="pt-4 row mw-100">
+
+</div>
+<div class="row mw-100">
+	<div class="col">
+		<p class="fw-bold text-center pt-2">Listas de lineas en la ciudad</p>
+		<div class="bg-light border border-dark ms-5 pt-1">
+			<ul id="agencialineas">
+
+			</ul>
+		</div>
+	</div>
+	<div class="col-md row-sm pt-2">
+		<p class="fw-bold text-center pt-2">Area de cobertura de la agencia</p>
+		<div class="bg-light border border-dark ms-5">
+			<div id="map1">
+      </div>
+		</div>
+		<p class="fw-bold text-center pt-2">Datos de la agencia</p>
+		<div id="datosdelaagencia" class="bg-light border border-dark ms-5">
+
+		</div>
+	</div>
+</div>
+<br>
+<br>
+
+<footer id="test1">
+	<div class="row">
+		<div class="col ms-5 pt-1">
+			<div id="logofooter">
+				<a href="index.html"><img src="logoejemplo.png" width=50px; id="test31"></a>
+				<p class="pt-4 fw-bold" id="test32">Una pagina simple sobre direcciones de lineas de colectivo</p>
+			</div>
+  </div>
+		<div class="col-3 pt-3 w-25">
+			<p class="bg-secondary text-wrap border border-dark rounded fw-bold" style="width: 3rem">Datos</p>
+			<ul>
+				<li><a href="desarollo.html">Sobre el proyecto</a></li>
+				<li><a href="index.html#noticias">Noticias</a></li>
+				<li><a  href="contacto.html" style="text-align: center;">Contactanos</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+
+</footer>
+
+<script src="./Javascript/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
+<script type="module"src="./Javascript/infodelaagencia.js"></script>
+<script src="./Javascript/mapaprovincia.js"></script>
+
+</body>
+</html>

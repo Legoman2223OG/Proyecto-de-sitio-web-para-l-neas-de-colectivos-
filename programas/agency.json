@@ -1,0 +1,1546 @@
+[
+  {
+    "agency_id": 82,
+    "agency_name": "MICROOMNIBUS SAAVEDRA S.A.T.A.C.I.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 14,
+    "agency_name": "TRANSP. AUTOMOTORES 12 DE OCTUBRE S.A.C.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 20,
+    "agency_name": "EMPRESA TANDILENSE S.A.C.I.F.I.Y DE S.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 63,
+    "agency_name": "EL NUEVO HALCON S.A.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 72,
+    "agency_name": "MICRO OMNIBUS QUILMES S.A.C.I. Y F.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 3,
+    "agency_name": "D.O.T.A. S.A. DE TRANSPORTE AUTOMOTOR",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 4,
+    "agency_name": "NUDO S.A.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 5,
+    "agency_name": "TRANSPORTES RIO GRANDE S.A.C.I.F.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 6,
+    "agency_name": "TRANSPORTES AUTOMOTORES CALLAO S.A.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 7,
+    "agency_name": "TRANSPORTES AUTOMOTORES RIACHUELO S.A.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 8,
+    "agency_name": "M.O.D.O. S.A. DE TRANSPORTE AUTOMOTOR",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 9,
+    "agency_name": "LA NUEVA METROPOL S.A.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 10,
+    "agency_name": "TRANSPORTES LOPE DE VEGA S.A.C.I.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 11,
+    "agency_name": "GENERAL TOMAS GUIDO S.A.C.I.F.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 12,
+    "agency_name": "NUEVOS RUMBOS S.A.T.A.C.I.F.I.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 13,
+    "agency_name": "17 DE AGOSTO S.A.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 15,
+    "agency_name": "TRANSPORTES COLEGIALES S.A.C.I.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 16,
+    "agency_name": "EMPRESA DE TRANSP. TTE. GRAL. ROCA S.A",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 17,
+    "agency_name": "LINEA 10 S.A.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 18,
+    "agency_name": "LINEA 17 S.A.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 19,
+    "agency_name": "GENERAL PUEYRREDON S.A.T.C.I.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 21,
+    "agency_name": "TRANSPORTE LARRAZABAL C.I.S.A.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 22,
+    "agency_name": "LOS CONSTITUYENTES S.A.T.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 23,
+    "agency_name": "ROCARAZA S.A.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 26,
+    "agency_name": "LINEA 22 S.A.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 27,
+    "agency_name": "LINEA 71 S.A.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 29,
+    "agency_name": "COLECTIVEROS UNIDOS S.A.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 30,
+    "agency_name": "BERNARDINO RIVADAVIA S.A.T.A.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 31,
+    "agency_name": "EL PUENTE S.A.T.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 32,
+    "agency_name": "TRANSPORTES AVENIDA BERNARDO ADER S.A.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 33,
+    "agency_name": "TRANSPORTE ESCALADA S.A.T.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 34,
+    "agency_name": "TRANSPORTES SAN CAYETANO S.A.C.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 35,
+    "agency_name": "EMP.TRANSP.AUTOM.DE PASAJEROS S.A.C.I.F.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 36,
+    "agency_name": "JUAN B. JUSTO S.A.T.C.I.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 37,
+    "agency_name": "TTES.AUTOMOTORES DE PASAJEROS SIGLO XXI SA",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 39,
+    "agency_name": "TRANSPORTES SESENTA Y OCHO S.R.L.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 54,
+    "agency_name": "EMPRESA LINEA 216 S.A.T.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 57,
+    "agency_name": "BUENOS AIRES BUS SOCIEDAD ANONIMA",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 59,
+    "agency_name": "SOCIEDAD ANONIMA EXPRESO SUDOESTE",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 60,
+    "agency_name": "TRANSPORTE IDEAL SAN JUSTO S.A.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 62,
+    "agency_name": "EXPRESO QUILMES S.A.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 74,
+    "agency_name": "LA CABAÑA S.A.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 77,
+    "agency_name": "SARGENTO CABRAL S.A.DE TRANSPORTE",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 83,
+    "agency_name": "MICROOMNIBUS CUARENTA Y CINCO S.A.C.I.F.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 84,
+    "agency_name": "MICROOMNIBUS CIUDAD DE BS.AS. S.A.T.C.I",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 86,
+    "agency_name": "TRANSPORTES 270 S.A.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 87,
+    "agency_name": "TRANSPORTES ALMIRANTE BROWN S.A.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 113,
+    "agency_name": "EMPRESA TRANSPORTE TRATADO DEL PILAR S.R.L.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 114,
+    "agency_name": "EMPRESA DE TRANSPORTES EL LITORAL S.A.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 124,
+    "agency_name": "EXPRESO NUEVE DE JULIO S.A.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 125,
+    "agency_name": "EXPRESO PARQUE EL LUCERO S.A. DE TRANSPORTES",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 135,
+    "agency_name": "LIBERTADOR SAN MARTIN SAT",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 138,
+    "agency_name": "LINEA SESENTA SA",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 141,
+    "agency_name": "MICRO OMNIBUS GENERAL SAN MARTIN SAC",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 142,
+    "agency_name": "MICRO OMNIBUS GRAL PACHECO SRL",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 144,
+    "agency_name": "MICRO OMNIBUS O´HIGGINS S.A.T.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 146,
+    "agency_name": "MICRO OMNIBUS TIGRE S.A.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 148,
+    "agency_name": "UTENOR LINEA 723 UNION TRANSITORIA DE EMPRESAS",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 151,
+    "agency_name": "RUTA BUS S.A.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 161,
+    "agency_name": "TRANSPORTES LA PERLITA S.A.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 183,
+    "agency_name": "LA PRIMERA DE MALVINAS ARGENTINAS UTE",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 195,
+    "agency_name": "LA PRIMERA DE LA ESCONDIDA SRL",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 198,
+    "agency_name": "SERGIO A. Rivas S.R.L.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 212,
+    "agency_name": "UTENOR SA L 722",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 430,
+    "agency_name": "ERSA URBANO",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 2,
+    "agency_name": "TRANSP. SGTO. CABRAL",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 24,
+    "agency_name": "TRANSPORTE NUEVE DE JULIO SAC.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 25,
+    "agency_name": "LA CENTRAL DE VICENTE LOPEZ S.A.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 40,
+    "agency_name": "TRANPORTES VEINTIDOS DE SETIEMBRE S.A.C.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 41,
+    "agency_name": "VUELTA DE ROCHA S.A.T.C.I.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 42,
+    "agency_name": "MICROOMNIBUS BARRANCAS DE BELGRANO S.A.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 43,
+    "agency_name": "CARDENAS S.A. EMPRESA DE TRANSPORTES",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 44,
+    "agency_name": "EMPRESA DE TRANSPORTES 104 S.R.L.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 46,
+    "agency_name": "MAYO S.A.T.A.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 47,
+    "agency_name": "EMP.DE TRANSP. PEDRO DE MENDOZA C.I.S.A.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 48,
+    "agency_name": "EMPRESA DE TRANSP. MARIANO MORENO S.A.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 49,
+    "agency_name": "AZUL S.A. DE TRANSPORTE AUTOMOTOR",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 50,
+    "agency_name": "EMPRESA ANTARTIDA ARGENTINA S.A.T.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 51,
+    "agency_name": "4 DE SEPTIEMBRE S.A.T.C.P.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 52,
+    "agency_name": "LINEA DE MICROOMNIBUS 47 S.A.T.C.F.I.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 53,
+    "agency_name": "TRANSPORTES NUEVA CHICAGO C.I.S.A.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 55,
+    "agency_name": "TRANSPORTES SUR-NOR C.I.S.A.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 56,
+    "agency_name": "TRANSPORTES SANTA FE S.A.C.I.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 58,
+    "agency_name": "LINEA 213 S.A. DE TRANSPORTE",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 61,
+    "agency_name": "BUS DEL OESTE S.A.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 64,
+    "agency_name": "MICRO OMNIBUS SUR S.A.C.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 65,
+    "agency_name": "EXPRESO GENERAL SARMIENTO S.A.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 66,
+    "agency_name": "GRUPO LINEA 179 S.A.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 68,
+    "agency_name": "SAN VICENTE S.A. DE TRANSPORTES",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 69,
+    "agency_name": "MICRO OMNIBUS NORTE S.A.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 70,
+    "agency_name": "TRANSPORTES ATLANTIDA S.A.C.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 71,
+    "agency_name": "EMPRESA DE TRANSPORTES AMERICA S.A.C.I.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 73,
+    "agency_name": "UNION TRANSPORTISTAS DE EMPRESAS SA",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 75,
+    "agency_name": "COMPAÑIA MICROOMNIBUS LA COLORADA SACI",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 76,
+    "agency_name": "LA VECINAL DE MATANZA SACI. DE MICROOMNIBUS",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 78,
+    "agency_name": "D.U.V.I. SOCIEDAD ANONIMA",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 79,
+    "agency_name": "LINEA EXPRESO LINIERS S.A.I.Y C.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 80,
+    "agency_name": "EXPRESO SAN ISIDRO S.A.T.C.I.F.I.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 81,
+    "agency_name": "TRANSPORTES QUIRNO COSTA S.A.C.I.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 85,
+    "agency_name": "TRANSPORTES DEL TEJAR S.A.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 88,
+    "agency_name": "ALMAFUERTE S.A.T.A.C.I.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 89,
+    "agency_name": "EMP.DE TRANSP.MICROOMN.SAENZ PEÑA S.R.L.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 90,
+    "agency_name": "TRANSPORTES 1º SEPTIEMBRE S.A.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 91,
+    "agency_name": "EXPRESO LOMAS S.A.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 92,
+    "agency_name": "TRANSPORTES LINEA 123 S.A.C.I.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 93,
+    "agency_name": "TRANSPORTES SOL DE MAYO C.I.S.A.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 95,
+    "agency_name": "EMPRESA CIUDAD DE SAN FERNANDO SA",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 96,
+    "agency_name": "CIA ANDRADE EMPRESA DE TRANSPORTE DE PASAJEROS SRL",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 97,
+    "agency_name": "CIA LA PAZ AMADOR MOURE SACIFIYA",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 98,
+    "agency_name": "COMPAÑIA ISLEÑA S.R.L.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 99,
+    "agency_name": "EMPRESA MICROOMNIBUS LARROQUE LINEA 548 SRL",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 101,
+    "agency_name": "COMPAÑIA NOROESTE S.A.T.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 102,
+    "agency_name": "COMPAÑÍA DE OMNIBUS 25 DE MAYO LINEA 278",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 104,
+    "agency_name": "COOPERATIVA DE TRABAJO 3 DE JULIO LIMITADA",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 108,
+    "agency_name": "EMPRESA 501 SA",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 109,
+    "agency_name": "EMPRESA CINCO DE AGOSTO S.R.L.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 110,
+    "agency_name": "EMPRESA DE TRANSPORTE DEL SUR SRL",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 112,
+    "agency_name": "EMPRESA DE TRANSPORTES SANTA RITA  SRL",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 115,
+    "agency_name": "EMPRESA DEL OESTE SAT",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 116,
+    "agency_name": "EMPRESA J.M. EZEIZA S.R.L.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 117,
+    "agency_name": "EMPRESA LINEA SIETE SAT",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 118,
+    "agency_name": "EMPRESA MONTE GRANDE S.A. LINEA 501",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 119,
+    "agency_name": "EMRESA MONTERREY S.R.L.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 120,
+    "agency_name": "EMPRESA NUEVE DE JULIO S.A.T.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 122,
+    "agency_name": "EXPRESO EMPALME LOBOS S.R.L.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 123,
+    "agency_name": "EXPRESO ESTEBAN ECHEVERRIA S.R.L.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 127,
+    "agency_name": "EXPRESO VILLA GALICIA  SAN JOSE S.A.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 128,
+    "agency_name": "EXPRESO VILLA NUEVA S.A.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 129,
+    "agency_name": "FUERTE BARRAGAN S.A.T.I.C.I.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 131,
+    "agency_name": "LA CENTRAL DE ESCOBAR SA",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 132,
+    "agency_name": "LA PRIMERA DE GRAND BOURG S.A.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 133,
+    "agency_name": "LA PRIMERA DE MARTINEZ S.A",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 139,
+    "agency_name": "MICRO OMNIBUS AVENIDA S.A.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 140,
+    "agency_name": "MICRO OMNIBUS ESTE S.A",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 143,
+    "agency_name": "MICRO OMNIBUS MITRE S.A.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 145,
+    "agency_name": "MICRO OMNIBUS PRIMERA JUNTA S.A",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 149,
+    "agency_name": "NUEVO IDEAL S.A.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 150,
+    "agency_name": "PILAR BUS S.A",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 152,
+    "agency_name": "TRANSPORTE 11 DE JUNIO S.R.L.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 155,
+    "agency_name": "TRANSPORTE AUTOMOTORES LA PLATA SA",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 156,
+    "agency_name": "TRANSPORTE DEL SUR S.R.L.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 157,
+    "agency_name": "TRANSPORTE JOSE HERNANDEZ S.A.C.I.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 158,
+    "agency_name": "TRANSPORTE LA UNION SA",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 160,
+    "agency_name": "TRANSPORTES AUTOMOTORES  LANUS ESTE S.A.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 162,
+    "agency_name": "TRANSPORTES UNIDOS DE MERLO S.A.C.I.I.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 163,
+    "agency_name": "TRANSPORTES VILLA BOSCH SAC el",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 165,
+    "agency_name": "UNION PLATENSE SRL",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 171,
+    "agency_name": "ALMAFUERTE EMPRESA DE TRANSPORTE S.A.C.I. E I",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 172,
+    "agency_name": "COMPAÑIA  DE TRANSPORTE VECINAL S.A.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 174,
+    "agency_name": "EL URBANO SRL",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 184,
+    "agency_name": "LA FLOR DE LUJAN SRL",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 196,
+    "agency_name": "COOPERATIVA DE TRABAJO 6 DE JULIO LIMITADA",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 203,
+    "agency_name": "YITOS S.A.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 215,
+    "agency_name": "TRANSPORTES SAN JUAN BAUTISTA S.A.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 227,
+    "agency_name": "EL LIBERTADOR SRL",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 228,
+    "agency_name": "EMPRESA DE TRANSPORTES 12 DE OCTUBRE SRL",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 229,
+    "agency_name": "TRANSPORTE 25 DE MAYO SRL",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 230,
+    "agency_name": "EMPRESA DE TRANSPORTE PERALTA RAMOS SACI",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 231,
+    "agency_name": "EMPRESA BATAN S.A.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 232,
+    "agency_name": "COOP.DE PROV.DE O.Y S.P.Y C.LAS TONINAS",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 233,
+    "agency_name": "MONTEMAR SRL",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 236,
+    "agency_name": "COOP.DE ELEC.SERV.Y OB.PUB.SAN BERNARDO",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 237,
+    "agency_name": "COOP.LTDA.LUZ Y FUERZA E.DE MAR DE AJO",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 238,
+    "agency_name": "COOP. PROV. OB. Y S.P. SAN CLEMENTE DEL TUYU",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 261,
+    "agency_name": "EMPRESA DE TRANSPORTE PARQUE COSTERO DEL SUR S.R.L",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 281,
+    "agency_name": "COOPERATIVA DE TRABAJO 3 DE JULIO LIMITADA",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 310,
+    "agency_name": "MICROEXPRES S.A.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 311,
+    "agency_name": "EXPRESO LA PLATA BUENOS AIRES S.A.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 320,
+    "agency_name": "NUEVO BUS DE OLAVARRÍA SRL",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 322,
+    "agency_name": "AUTOBUSES BUENOS AIRES SRL",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 323,
+    "agency_name": "OLA BUS SRL",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 324,
+    "agency_name": "UNION TRANSITORIA COSA CIA TRANSPORTE VECINAL U.T.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 327,
+    "agency_name": "BAHIA TRANSPORTE SAPEN",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 328,
+    "agency_name": "LEMOS Y RODRIGUEZ S.A.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 329,
+    "agency_name": "T. A. SAN GABRIEL S.A.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 332,
+    "agency_name": "MICRO ÓMNIBUS NUEVA POMPEYA S.R.L.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 333,
+    "agency_name": "COMPAÑÍA DE TRANSPORTE NECOCHEA S.A.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 334,
+    "agency_name": "FRANCISCO BUIATTI E HIJOS S.A",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 335,
+    "agency_name": "HUGO A. PFLUGER S.A",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 336,
+    "agency_name": "LINEAS DELTA ARGENTINO S.R.L.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 337,
+    "agency_name": "EMPRESA EL LEON S.R.L.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 338,
+    "agency_name": "INTERISLEÑA S.A.C.I.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 344,
+    "agency_name": "LA COMARCA SA",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 352,
+    "agency_name": "LANGE DANTE RAUL",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 360,
+    "agency_name": "EMPRESA VERCELLI HNOS S.A",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 376,
+    "agency_name": "LA NUEVA PERLA SRL",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 392,
+    "agency_name": "SERODINO SRL",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 410,
+    "agency_name": "AUTOBUSES BS AS SRL- TTE LARRAZABAL SRL- UT",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 429,
+    "agency_name": "NACUS SRL",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 438,
+    "agency_name": "RESERVA - SEMTUR",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 445,
+    "agency_name": "MUNICIPALIDAD DE MERCEDES PROVINCIA DE BUENOS AIRE",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 446,
+    "agency_name": "TRANSPORTE 8 DE OCTUBRE S.A.",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  },
+  {
+    "agency_id": 505,
+    "agency_name": "NUESTRA SEÑORA DEL ROSARIO S.A. UNION TRANSITORIA",
+    "agency_url": "https://www.argentina.gob.ar/cnrt",
+    "agency_timezone": "America/Argentina/Buenos_Aires",
+    "agency_lang": "ES",
+    "agency_phone": ""
+  }
+]
